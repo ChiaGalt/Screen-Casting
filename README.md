@@ -33,13 +33,13 @@ The system supports customizable keyboard shortcuts for:
 
 These shortcuts are processed asynchronously to avoid blocking the streaming pipeline.
 
-### 5. Annotation Tools *(Bonus Feature)*
+### 5. Annotation Tools 
 A transparent overlay can be activated during casting to enable basic annotations over the stream. This includes drawing tools, text insertion, and highlight markers, implemented with minimal overhead to preserve performance.
 
-### 6. Stream Recording *(Bonus Feature)*
+### 6. Stream Recording 
 When operating as a receiver, the system provides the option to record the incoming stream locally. The resulting video can be saved in standard formats for later playback.
 
-### 7. Multi-Monitor Support *(Bonus Feature)*
+### 7. Multi-Monitor Support 
 The application is capable of detecting multiple connected displays and allows the user to select the target monitor from which to capture content.
 
 ---
